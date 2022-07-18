@@ -20,6 +20,8 @@ So run this command
 
 unzip dark-mail.zip
 
+Need password.. contact me
+
 
 Naw open file 
 
