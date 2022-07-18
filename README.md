@@ -12,6 +12,8 @@ git clone https://github.com/dark-hacker-bd/dark-mail/
 
 Type ls
 
+Naw open file cd dark-mail
+
 Naw unzip dark-mail.zip
 
 So run this command
