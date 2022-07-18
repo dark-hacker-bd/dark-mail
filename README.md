@@ -7,8 +7,7 @@ pkg install python
 pkg install python2
 
 
-git clone https://dark-hacker-bd/dark+mail
-
+git clone https://github.com/dark-hacker-bd/dark-mail/
 
 Naw unzip dark-mail.zip
 
