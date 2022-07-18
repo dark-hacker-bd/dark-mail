@@ -9,6 +9,9 @@ pkg install python2
 
 git clone https://github.com/dark-hacker-bd/dark-mail/
 
+
+Type ls
+
 Naw unzip dark-mail.zip
 
 So run this command
